@@ -1,4 +1,4 @@
-### Hi there 👋
+### I write code sometimes
 
 <!--
 **F3st1v3/F3st1v3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
