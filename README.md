@@ -1,4 +1,4 @@
-### I write code sometimes
+# About me
 
 <!--
 **F3st1v3/F3st1v3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+### 🎓 Class of 2025 at Alexander Mackenzie High School  
+### 🛠️ My languages of preference are C++ and Python  
+### 🔭 I'm interested in Game Development and Computer Graphics  
