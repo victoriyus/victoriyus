@@ -16,4 +16,4 @@ Here are some ideas to get you started:
 -->
 ### 🎓 Class of 2025 at Alexander Mackenzie High School  
 ### 🛠️ My languages of preference are C++ and Python  
-### 🔭 I'm interested in Game Development and Computer Graphics  
+### 🔭 Interested in Game Development and Computer Graphics  
