@@ -14,6 +14,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-### 🎓 Class of 2025 at Alexander Mackenzie High School  
 ### 🛠️ My languages of preference are C++ and Python  
 ### 🔭 Interested in Game Development and Computer Graphics  
